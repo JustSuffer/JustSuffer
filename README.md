@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**JustSuffer/JustSuffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Mechatronics Engineer | Graduate of Marmara University (GPA 3.10) <br/>
+💻 Hardware-Software Bridge: I specialize in integrating intelligent software with physical systems, backed by five completed internships. <br/>
+🗡️ Philosophy-Driven: I apply the principles of Kaizen (continuous improvement) to my engineering workflow.<br/>
+🤝 Collaborative Mindset: Passionate about solving complex problems through teamwork and clean, scalable code.<br/>
 
-Here are some ideas to get you started:
+🛠️ Technical Toolkit<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Programming: Python, C++, JavaScript<br/>
+-Artificial Intelligence: PyTorch, Machine Learning, Image Processing, YOLOv11 <br/>
+-Web Development: React.js, Vue.js, Tailwind CSS <br/>
+-Robotics: Sensor integration (MPU6050), Microcontrollers, System Design<br/>
+
+📫 Connect With Me<br/>
+
+📧 Email: izzet4626@gmail.com<br/>
+💼 LinkedIn: (www.linkedin.com/in/izzetcansorna)<br/>
