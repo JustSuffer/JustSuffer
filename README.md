@@ -17,4 +17,4 @@
 📧 Email: izzet4626@gmail.com<br/>
 💼 LinkedIn: (www.linkedin.com/in/izzetcansorna)<br/>
 
-[![İzzet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustSuffer&show_icons=true&theme=radical&count_private=true)](https://github.com/JustSuffer)
+
