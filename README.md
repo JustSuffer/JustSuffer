@@ -2,7 +2,6 @@
 
 🧠 Mechatronics Engineer | Graduate of Marmara University (GPA 3.10) <br/>
 💻 Hardware-Software Bridge: I specialize in integrating intelligent software with physical systems, backed by five completed internships. <br/>
-🗡️ Philosophy-Driven: I apply the principles of Kaizen (continuous improvement) to my engineering workflow.<br/>
 🤝 Collaborative Mindset: Passionate about solving complex problems through teamwork and clean, scalable code.<br/>
 
 🛠️ Technical Toolkit<br/>
