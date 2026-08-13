@@ -15,10 +15,10 @@
 
 📧 Email: izzet4626@gmail.com<br/>
 🖥️ Portfolio: https://izzetportfolio.netlify.app<br/>
-😊 HF-Acc: https://huggingface.co/Nagumo21/models
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/izzetcansorna) 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Nagumo21)
 
 
 # 💻 Tech Stack:
